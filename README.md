@@ -9,7 +9,7 @@ El objetivo principal es identificar **patrones de comportamiento y factores det
 ## 🚀 Contenido del Proyecto  
 
 - `Desafio_2.ipynb`: Notebook principal con el desarrollo del análisis paso a paso.  
-- `data/`: Carpeta con la fuente de datos (API/JSON).  
+- `data/`: 'https://github.com/ingridcristh/challenge2-data-science-LATAM/blob/main/TelecomX_Data.json'.  
 - `README.md`: Documento de presentación del proyecto.  
 
 ---
