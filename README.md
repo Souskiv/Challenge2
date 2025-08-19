@@ -46,3 +46,7 @@ El objetivo principal es identificar **patrones de comportamiento y factores det
 - **Seaborn**  
 - **Plotly**  
 - **Jupyter Notebook**  
+
+---
+
+Proyecto desarrollado por Daniel Santiago Furnieles como parte del desafío de Ciencia de Datos de Alura.
